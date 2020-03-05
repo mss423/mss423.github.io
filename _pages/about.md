@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring the applications of mathematics to real-world phenomena . . ."
+title: "Investigating real world phenomena through mathematics . . ."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
