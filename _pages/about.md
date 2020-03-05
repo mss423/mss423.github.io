@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Max Springer | Mathematician"
+title: "Exploring the applications of mathematics to real-world phenomena . . ."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
