@@ -2,9 +2,9 @@
 title: "PHYS 2208: Fundamentals of Physics II"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-spring-teaching-1
+permalink: /teaching/2018-spring-teaching-1
 venue: "Cornell University - Physics Department"
-date: 2019-01-23
+date: 2018-01-23
 location: "Ithaca, NY"
 ---
 
