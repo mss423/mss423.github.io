@@ -18,17 +18,17 @@ Research experience
 * June 2019 - Present: Postgraduate Research Associate
   * Yale University - School of Medicine
   * Field: Computational Neuroscience - Focus on Epilepsy & Conciousness
-  * Supervisor: Hal Blumenfeld
+  * Supervisor: [Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/)
   
 * August 2018 - May 2019: Supervised Research
   * Cornell University - Department of Mathematics
   * Field: Nonlinear Dynamics - Focus on Evolutionary Game Theory
-  * Supervisor: Steven Strogatz
+  * Supervisor: [Steven Strogatz](https://math.cornell.edu/steven-strogatz)
 
 * May 2018 - August 2018: Research Intern
   * National Institutes of Health - National Cancer Institute
   * Field: Nonlinear Dynamics & Mathematical Biology - Focus on Cellular Dynamics
-  * Supervisor: Orit Lavi
+  * Supervisor: [Orit Lavi](https://ccr.cancer.gov/Laboratory-of-Cell-Biology/orit-lavi)
 
 Publications
 ======
