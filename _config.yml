@@ -84,7 +84,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "Computational Neuroscience Researcher @ Yale University"
   location         : "New Haven, CT"
-  employer         : "Yale University"
+  employer         : #"Yale University"
   pubmed           : 
   googlescholar    : 
   email            : "max.springer@yale.edu"
@@ -176,15 +176,15 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
-  talks:
+  presentations:
     output: true
     permalink: /:collection/:path/
 
@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentations
   - scope:
       path: ""
-      type: talks
+      type: presentations
     values:
       layout: talk
       author_profile: true
