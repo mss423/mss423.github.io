@@ -13,4 +13,4 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 In the fall, I will be starting my PhD in Applied Mathematics and previously received a B.A. in Mathematics from Cornell University.
 
-![](https://media.giphy.com/media/idKeY3nvmdIsM/giphy.gif)
+![](https://media.giphy.com/media/FY9chKp6rulXy/giphy.gif)
