@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Investigating real world phenomena through mathematics . . ."
+title: "Investigating real world phenomena through mathematics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
