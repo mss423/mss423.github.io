@@ -28,9 +28,14 @@ h2 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    padding: 50px;
     font-size: 1em;
     line-height: 1.1em;
     color: #333;
+}
+img {
+  border-radius: 4px;
+  width: 40px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
