@@ -15,9 +15,9 @@ Education
 
 Research experience
 ======
-* June 2019 - Present: Postgraduate Research Associate
+* June 2019 - Present: [Postgraduate Research Associate](https://medicine.yale.edu/profile/max_springer/)
   * Yale University - School of Medicine
-  * Field: Computational Neuroscience - Focus on Epilepsy & Conciousness
+  * Field: Computational Neuroscience - Focus on Epilepsy & Consciousness
   * Supervisor: [Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/)
   
 * August 2018 - May 2019: Supervised Research
