@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
-title_separator          : "-"
+# title                    : ""
+# title_separator          : "-"
 name                     : &name "Max Springer"
 description              : &description "Computational Neuroscience Researcher @ Yale University"
 url                      : https://mss423.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
