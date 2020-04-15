@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mathematically Modeling Real World Problems"
+title: "Mathematically Modeling Real World Phenomena"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
