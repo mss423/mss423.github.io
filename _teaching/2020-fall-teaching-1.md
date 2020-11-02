@@ -2,7 +2,7 @@
 title: "MATH 135: Mathematics for Life Sciences"
 collection: teaching
 type: "Undergraduate course"
-permalink: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/687-math-135-mathematics-for-life-sciences.html
+permalink: 
 venue: "University of Maryland, College Park - Mathematics Department"
 date: 2020-08-31
 location: "College Park, MD"
