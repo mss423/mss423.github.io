@@ -2,14 +2,10 @@
 title: "MATH 135: Mathematics for Life Sciences"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2020-fall-teaching-1
+permalink: https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/687-math-135-mathematics-for-life-sciences.html
 venue: "University of Maryland, College Park - Mathematics Department"
 date: 2020-08-31
 location: "College Park, MD"
 ---
 
-Graduate teaching assistant for the course. Responsible for recitation sections and office hours. Course information at the above link.
-
-MATH 135: Mathematics for Life Sciences
-======
-Introduction to probability, statistics, matrix and vector algebra  with emphasis on models and techniques relevant to the life sciences.
+Graduate teaching assistant for the course. Responsible for recitation sections and office hours. Course information can be found [here](https://www-math.umd.edu/undergraduate/departmental-course-pages/offered-courses/687-math-135-mathematics-for-life-sciences.html).
