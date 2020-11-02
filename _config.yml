@@ -10,7 +10,7 @@ locale                   : "en-US"
 # title                    : ""
 # title_separator          : "-"
 name                     : &name "Max Springer"
-description              : &description "Computational Neuroscience Researcher @ Yale University"
+description              : &description "Applied Mathematician @ University of Maryland"
 url                      : https://mss423.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mss423/mss423.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Max Springer"
   avatar           : "bio-photo.jpg"
-  bio              : "Computational Neuroscience Researcher @ Yale University"
-  location         : "New Haven, CT"
+  bio              : "Applied Mathematician @ University of Maryland"
+  location         : "College Park, MD"
   employer         : #"Yale University"
   pubmed           : 
   googlescholar    : 
-  email            : "max.springer@yale.edu"
+  email            : "mss423@umd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
