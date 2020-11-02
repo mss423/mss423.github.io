@@ -8,7 +8,7 @@ date: 2020-08-31
 location: "College Park, MD"
 ---
 
-Graduate teaching assistant for the course. Responsible for recitation sections and office hours. The course description is as follows:
+Graduate teaching assistant for the course. Responsible for recitation sections and office hours. Course information at the above link.
 
 MATH 135: Mathematics for Life Sciences
 ======
