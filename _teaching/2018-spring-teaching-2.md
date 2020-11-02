@@ -8,7 +8,7 @@ date: 2018-01-23
 location: "Ithaca, NY"
 ---
 
-Master undergraduate teaching assistant for the course. Responsible for helping the graduate TA lead recitation and host office hours. The course description is as follows:
+Master undergraduate teaching assistant for the course. Responsible for helping the graduate TA lead recitation and host office hours. Course information at the above link.
 
 PHYS 2208: Fundamentals of Physics II
 ======
