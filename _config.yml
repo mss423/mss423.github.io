@@ -10,7 +10,7 @@ locale                   : "en-US"
 # title                    : ""
 # title_separator          : "-"
 name                     : &name "Max Springer"
-description              : &description "Applied Mathematician @ University of Maryland"
+description              : &description "Applied Mathematician @ UMD"
 url                      : https://mss423.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mss423/mss423.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Max Springer"
   avatar           : "bio-photo.jpg"
-  bio              : "Applied Mathematician @ University of Maryland"
+  bio              : "Applied Mathematician @ UMD"
   location         : "College Park, MD"
   employer         : #"Yale University"
   pubmed           : 
