@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a post-graduate researcher at Yale University's School of Medicine working in the field of 
-computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focuses on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy.
+I am currently a PhD student in Applied Mathematics at the University of Maryland and previously received a BA in Mathematics from Cornell University. My main interests are the applications of dynamics systems to neural processes and algorithmic approaches to game theoretic models.
 
-In the fall, I will be starting my PhD in Applied Mathematics at the University of Maryland and previously received a B.A. in Mathematics from Cornell University.
+Between my undergraduate and graduate schooling, I worked as a post-graduate research associate at Yale University's School of Medicine working in the field of 
+computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy.
 
 ![](https://media.giphy.com/media/7gLIM78lZE2v6/source.gif)
