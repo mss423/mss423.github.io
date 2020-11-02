@@ -8,7 +8,4 @@ date: 2017-06-15
 location: "Ithaca, NY"
 ---
 
-Master undergraduate teaching assistant for the course. Responsible for helping the graduate TA lead recitation and host office hours. Course information at the above link.
-
-Cornell Adult University: Quantum Mechanics
-======
+Created the course curriculum and taught a summer crash course for advanced high school students on the ideas behind Quantum Mechanics. This involved simple mathematical exercises, hands-on lab experiments and sessions with faculty of the Cornell Physics Department. More information can be found [here](https://sce.cornell.edu/travel).
