@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student in Applied Mathematics at the University of Maryland and previously received a BA in Mathematics from Cornell University. My main interests are the applications of dynamical systems models and machine learning in a biological context.
+I am currently a PhD student in Applied Mathematics at the University of Maryland and previously received a BA in Mathematics from Cornell University. I am mainly interested in algorithmic complexity and graph theoretic problems.
 
 Between my undergraduate and graduate schooling, I worked as a post-graduate research associate at Yale University's School of Medicine working in the field of 
 computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy.
