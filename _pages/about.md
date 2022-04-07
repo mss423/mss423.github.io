@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mathematical Modeling of Real World Phenomena"
+title: "Uninspired Mathematician"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
