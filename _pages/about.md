@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*Personal News (April 4th, 2022):* I am incredibly excited to share that I was awarded the National Science Foundation (NSF) graduate research fellowship! I want to give a very warm shoutout to my mentors and peers from Cornell, Yale, the NIH and UMD for all their help to get me to this stage of my career.
+**Personal News (April 4th, 2022):** I am incredibly excited to share that I was awarded the National Science Foundation (NSF) graduate research fellowship! I want to give a very warm shoutout to my mentors and peers from Cornell, Yale, the NIH and UMD for all their help to get me to this stage of my career.
 
 I am currently a *PhD student in Applied Mathematics at the University of Maryland*, working with [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/). I am mainly interested in approximate algorithms, auction / mechanism design, and game theoretic problems.
 
