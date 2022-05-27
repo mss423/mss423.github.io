@@ -1,7 +1,7 @@
 ---
 title: "Analysis of a Learning Based Algorithm for Budget Pacing"
 collection: publications
-permalink: /publication/2022_05_27_learningbid
+permalink: /publication/2022-05-27-learningbid
 excerpt: 
 date: 2022-05-27
 venue: 'arXiv'
