@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /dalle/
 title: "DALL-E Creations"
 excerpt: "Human x Machine"
 author_profile: true
