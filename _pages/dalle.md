@@ -31,7 +31,7 @@ Below are some of my favorite creations since being given research access to Ope
 <q>Creation 19</q> - Max S. | <q>Creation 20</q> - Max S.
 ![c3](/images/dalle/dalle_c21.png) | ![c4](/images/dalle/dalle_c22.png)
 <q>Creation 21</q> - Max S. | <q>Creation 22</q> - Max S.
-![c3](/images/dalle/dalle_23.png) | ![c4](/images/dalle/dalle_24.png)
+![c3](/images/dalle/dalle_c23.png) | ![c4](/images/dalle/dalle_c24.png)
 <q>Creation 23</q> - Max S. | <q>Creation 24</q> - Max S.
 ![c1](/images/dalle/dalle_c25.png) | ![c2](/images/dalle/dalle_c26.png)
 <q>Creation 25</q> - Max S. | <q>Creation 26</q> - Max S.
