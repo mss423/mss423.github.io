@@ -13,8 +13,8 @@ main:
   - title: "Teaching"
     url: /teaching/  
     
-- title: "DALL-E"
-    url: /dalle/ 
+#- title: "DALL-E"
+#    url: /dalle/ 
     
   - title: "CV"
     url: /files/maxspringer_cv.pdf
