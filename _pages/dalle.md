@@ -10,7 +10,7 @@ Below are some of my favorite creations since being given research access to Ope
 
 ![c1](/images/dalle/dalle_c1.png) | ![c2](/images/dalle/dalle_c2.png)
 |:--:|:--:|
-<q>Creation 1</q> | <q">"Creation 2"</q>
+<q>Creation 1</q> | <q>Creation 2</q>
 ![c3](/images/dalle/dalle_c3.png) | ![c4](/images/dalle/dalle_c4.png)
 |:--:|
 <q>Creation 3</q> | <q>Creation 4</q>
