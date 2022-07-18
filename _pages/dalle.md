@@ -10,19 +10,14 @@ Below are some of my favorite creations since being given research access to Ope
 
 ![c1](/images/dalle/dalle_c1.png) | ![c2](/images/dalle/dalle_c2.png)
 |:--:|:--:|
-<q>Creation 1</q> | <q>Creation 2</q>
+<q>Creation 1</q> Max S. | <q>Creation 2</q> Max S.
 ![c3](/images/dalle/dalle_c3.png) | ![c4](/images/dalle/dalle_c4.png)
-|:--:|
-<q>Creation 3</q> | <q>Creation 4</q>
+<q>Creation 3</q> Max S. | <q>Creation 4</q> Max S.
 ![c1](/images/dalle/dalle_c5.png) | ![c2](/images/dalle/dalle_c6.png)
-|:--:|
-<q>Creation 5</q> | <q>Creation 6</q>
+<q>Creation 5</q> Max S. | <q>Creation 6</q> Max S.
 ![c3](/images/dalle/dalle_c7.png) | ![c4](/images/dalle/dalle_c8.png)
-|:--:|
-<q>Creation 7</q> | <q>Creation 8</q>
+<q>Creation 7</q> Max S. | <q>Creation 8</q> Max S.
 ![c1](/images/dalle/dalle_c9.png) | ![c2](/images/dalle/dalle_c10.png)
-|:--:|
-<q>Creation 9</q> | <q>Creation 10</q>
+<q>Creation 9</q> Max S. | <q>Creation 10</q> Max S.
 ![c3](/images/dalle/dalle_c11.png) | ![c4](/images/dalle/dalle_c12.png)
-|:--:|
-<q>Creation 11</q> | <q>Creation 12</q>
+<q>Creation 11</q> Max S. | <q>Creation 12</q> Max S.
