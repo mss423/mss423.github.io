@@ -21,7 +21,7 @@ Below are some of my favorite creations since being given research access to Ope
 ![c3](/images/dalle/dalle_c11_v2.png) | ![c4](/images/dalle/dalle_c12.png)
 <q>Fisheye lens photo of a Zombie filming his rap video in Budapest</q> - Max S. | <q>God revealing himself to a devout man on a volcano</q> - Max S.
 ![c3](/images/dalle/dalle_c13.png) | ![c4](/images/dalle/dalle_c1.png)
-<q>Da Vinci depicts a man reunited with his dog at the gates of Heaven</q> - Max S. | <q>a raccoon detective solving crime in a 1960s noir comic</q> - Max S.
+<q>Da Vinci depicts a man reunited with his dog at the gates of Heaven</q> - Max S. | <q>A raccoon detective solving crime in a 1960s noir comic</q> - Max S.
 ![c1](/images/dalle/dalle_c2.png) | ![c2](/images/dalle/dalle_c16.png)
 <q>Batman ice-skating to fight crime in the style of Norman Rockwell</q> - Max S. | <q>Formula 1 car driving past the International Space Station through the galaxies</q> - Max S.
 ![c3](/images/dalle/dalle_c17.png) | ![c4](/images/dalle/dalle_c18.png)
