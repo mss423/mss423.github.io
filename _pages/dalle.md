@@ -31,3 +31,5 @@ Below are some of my favorite creations since being given research access to Ope
 ![](images/dalle/dalle_c11.png){ width=50% }
 
 ![](images/dalle/dalle_c12.png){ width=50% }
+
+![](images/dalle/dalle_c13.png){ width=50% }
