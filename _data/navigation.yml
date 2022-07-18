@@ -14,7 +14,7 @@ main:
     url: /teaching/  
     
 - title: "DALL-E"
-    url: /_pages/gallere.html 
+    url: /dalle/
     
   - title: "CV"
     url: /files/maxspringer_cv.pdf
