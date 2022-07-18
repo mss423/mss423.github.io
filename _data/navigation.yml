@@ -10,10 +10,10 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+- title: "DALL-E"
+    url: /dalle/ 
     
   - title: "CV"
     url: /files/maxspringer_cv.pdf
-    
-  - title: "DALL-E"
-    url: /dalle/ 
