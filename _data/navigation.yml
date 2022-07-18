@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /about/
+    url: /
 
   - title: "Publications"
     url: /publications/
@@ -16,4 +16,4 @@ main:
     url: /files/maxspringer_cv.pdf
     
   - title: "DALL-E"
-    url: /dalle/
+    url: /dalle/ 
