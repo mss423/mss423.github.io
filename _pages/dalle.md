@@ -21,3 +21,19 @@ Below are some of my favorite creations since being given research access to Ope
 <q>Creation 9</q> - Max S. | <q>Creation 10</q> - Max S.
 ![c3](/images/dalle/dalle_c11.png) | ![c4](/images/dalle/dalle_c12.png)
 <q>Creation 11</q> - Max S. | <q>Creation 12</q> - Max S.
+![c3](/images/dalle/dalle_c13.png) | ![c4](/images/dalle/dalle_c14.png)
+<q>Creation 13</q> - Max S. | <q>Creation 14</q> - Max S.
+![c1](/images/dalle/dalle_c15.png) | ![c2](/images/dalle/dalle_c16.png)
+<q>Creation 15</q> - Max S. | <q>Creation 16</q> - Max S.
+![c3](/images/dalle/dalle_c17.png) | ![c4](/images/dalle/dalle_c18.png)
+<q>Creation 17</q> - Max S. | <q>Creation 18</q> - Max S.
+![c1](/images/dalle/dalle_c19.png) | ![c2](/images/dalle/dalle_c20.png)
+<q>Creation 19</q> - Max S. | <q>Creation 20</q> - Max S.
+![c3](/images/dalle/dalle_c21.png) | ![c4](/images/dalle/dalle_c22.png)
+<q>Creation 21</q> - Max S. | <q>Creation 22</q> - Max S.
+![c3](/images/dalle/dalle_23.png) | ![c4](/images/dalle/dalle_24.png)
+<q>Creation 23</q> - Max S. | <q>Creation 24</q> - Max S.
+![c1](/images/dalle/dalle_c25.png) | ![c2](/images/dalle/dalle_c26.png)
+<q>Creation 25</q> - Max S. | <q>Creation 26</q> - Max S.
+![c3](/images/dalle/dalle_c27.png) | ![c4](/images/dalle/dalle_c28.png)
+<q>Creation 27</q> - Max S. | <q>Creation 28</q> - Max S.
