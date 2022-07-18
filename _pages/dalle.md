@@ -9,4 +9,4 @@ Below are some of my favorite creations since being given research access to Ope
 
 | ![](images/dalle/dalle_c1.png) |
 |:--:|
-| <i>A raccoon solving crime in the style of noir comic</i>|
+| <i>A raccoon solving crime in the style of a noir comic</i>|
