@@ -7,8 +7,12 @@ author_profile: true
 
 Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(Last Updated July 18th, 2022)*
 
-![cX](/images/dalle/dalle_c31.png) | ![cY](/images/dalle/dalle_c32.png)
+![cX](/images/dalle/dalle_c35.png) | ![cY](/images/dalle/dalle_c36.png)
 |:--:|:--:|
+<q>Three roommates bickering over where to place the sofa, in the style of Da Vinci</q> - Max S. | <q>The Creature from the Black Lagoon defending his PhD thesis</q> - Max S.
+![cX](/images/dalle/dalle_c33.png) | ![cY](/images/dalle/dalle_c34.png)
+<q>Found footage of UFO late at night</q> - Max S. | <q>Salvador Dali’s skateboarder bombing down the streets of Japan</q> - Max S.
+![cX](/images/dalle/dalle_c31.png) | ![cY](/images/dalle/dalle_c32.png)
 <q>Portraits of Abraham Lincoln throughout his life on pennies</q> - RM | <q>Sketch of Women embracing in the style of Tom of Finland</q> - Plantee
 ![cX](/images/dalle/dalle_c29.png) | ![cY](/images/dalle/dalle_c30.png)
 <q>Hieronymous Bosch’s Garden of Earthly Delights being invaded by robots</q> - RM | <q>Capitalism in the style of H. R. Giger</q> - RM
