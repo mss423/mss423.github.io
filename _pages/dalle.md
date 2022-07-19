@@ -5,10 +5,14 @@ excerpt: "Human x DALL-E Collab"
 author_profile: true
 ---
 
-Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(Last Updated July 18th, 2022)*
+Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(Last Updated July 19th, 2022)*
 
-![cX](/images/dalle/dalle_c35.png) | ![cY](/images/dalle/dalle_c36.png)
+![cX](/images/dalle/dalle_c39.png) | ![cY](/images/dalle/dalle_c40.png)
 |:--:|:--:|
+<q>The Carina nebula drawn by a toddler with crayons</q> - RM | <q>Super 8 footage of an astronaut rap group dancing on Mars</q> - Max S.
+![cX](/images/dalle/dalle_c37.png) | ![cY](/images/dalle/dalle_c38.png)
+<q>Kermit the Frog Devouring his Son, painting by Francisco Goya</q> - RM | <q>Abstract digital art of the human mind</q> - Max S.
+![cX](/images/dalle/dalle_c35.png) | ![cY](/images/dalle/dalle_c36.png)
 <q>Three roommates bickering over where to place the sofa, in the style of Da Vinci</q> - Max S. | <q>The Creature from the Black Lagoon defending his PhD thesis</q> - Max S.
 ![cX](/images/dalle/dalle_c33.png) | ![cY](/images/dalle/dalle_c34.png)
 <q>Found footage of UFO late at night</q> - Max S. | <q>Salvador Dali’s skateboarder bombing down the streets of Japan</q> - Max S.
