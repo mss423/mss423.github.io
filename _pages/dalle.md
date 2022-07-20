@@ -5,10 +5,16 @@ excerpt: "Human x DALL-E Collab"
 author_profile: true
 ---
 
-Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(Last Updated July 19th, 2022)*
+Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(last updated July 20th, 2022)*
 
-![cX](/images/dalle/dalle_c39.png) | ![cY](/images/dalle/dalle_c40.png)
+![cX](/images/dalle/dalle_c45.png) | ![cY](/images/dalle/dalle_c46.png)
 |:--:|:--:|
+<q>The world inside a rice cooker by Manet</q> - JZ | <q>Photo of an adorable red furry monster trying to understand the game of chess</q> - Max S.
+![cX](/images/dalle/dalle_c43.png) | ![cY](/images/dalle/dalle_c44.png)
+<q>Dali paints the apocalypse according to Dante</q> - JZ | <q>Photograph of a group of manatees playing soccer in the snow</q> - Em
+![cX](/images/dalle/dalle_c41.png) | ![cY](/images/dalle/dalle_c42.png)
+<q>Marcel the Shell with Shoes on as painted by Picasso</q> - Eliza | <q>Lovers from desire by murakami in the style of castle in the sky</q> - JZ
+![cX](/images/dalle/dalle_c39.png) | ![cY](/images/dalle/dalle_c40.png)
 <q>The Carina nebula drawn by a toddler with crayons</q> - RM | <q>Super 8 footage of an astronaut rap group dancing on Mars</q> - Max S.
 ![cX](/images/dalle/dalle_c37.png) | ![cY](/images/dalle/dalle_c38.png)
 <q>Kermit the Frog Devouring his Son, painting by Francisco Goya</q> - RM | <q>Abstract digital art of the human mind</q> - Max S.
