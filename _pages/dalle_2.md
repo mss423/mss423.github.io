@@ -5,7 +5,7 @@ excerpt: "Human x DALL-E Collab"
 author_profile: true
 ---
 
-Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(last updated July 20th, 2022)*
+Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(last updated July 21st, 2022)*
 
 
 ![c4](/images/dalle/dalle_c28.png) | ![cY](/images/dalle/dalle_c47.png) | ![cZ](/images/dalle/dalle_c48.png) 
