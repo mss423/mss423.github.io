@@ -1,5 +1,5 @@
 ---
-permalink: /dalle/
+permalink: /dalle_old/
 title: "Our GALLER-E"
 excerpt: "Human x DALL-E Collab"
 author_profile: true
