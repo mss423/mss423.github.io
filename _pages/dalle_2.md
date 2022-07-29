@@ -5,11 +5,12 @@ excerpt: "Human x DALL-E Collab"
 author_profile: true
 ---
 
-Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(last updated July 21st, 2022)*
+Below are some of my favorite creations since being given research access to [OpenAI's DALL-E 2 system](https://openai.com/dall-e-2/). I will continuously update this page with all the cool, funny, and interesting artistic decisions that the agent makes. If you want to submit a prompt, use [this Google form](https://forms.gle/2XEHsJ1hhEdRF1zT7) and I will add the creation here as soon as I can. *(last updated July 29th, 2022)*
 
-
-![c4](/images/dalle/dalle_c28.png) | ![cY](/images/dalle/dalle_c47.png) | ![cZ](/images/dalle/dalle_c48.png) 
+![cX](/images/dalle/dalle_c51.png) | ![cY](/images/dalle/dalle_c50.png) | ![cZ](/images/dalle/dalle_c49.png)
 |:--:|:--:|:--:|
+<q>Waterslide through Los Angeles in the style of Blade Runner 2049</q> - Max S. | <q>Woodblock print of two yetis recording a jazz album at midnight</q> - Em | <q>Personified hotdogs at a human-eating contest</q> - Heisenberg
+![c4](/images/dalle/dalle_c28.png) | ![cY](/images/dalle/dalle_c47.png) | ![cZ](/images/dalle/dalle_c48.png) 
 <q>Escher's interpretation of van gogh's starry night</q> - Max S. | <q>Eccentric nostalgia in a shopping mall</q> - Cla | <q>Defamation of a God by Mary Poppins</q> - Cla
 ![cX](/images/dalle/dalle_c45.png) | ![cY](/images/dalle/dalle_c46.png) | ![cX](/images/dalle/dalle_c43.png)
 <q>The world inside a rice cooker by Manet</q> - JZ | <q>Photo of an adorable red furry monster trying to understand the game of chess</q> - Max S. | <q>Dali paints the apocalypse according to Dante</q> - JZ
