@@ -15,7 +15,7 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 ---
 
-**August 29th, 2022:** Awarded Nokia Bell Labs' Outstanding Innovation Award for my summer research in the Modeling & Optimization group. We look forward to publishing this work in the near future!
+**August 29th, 2022:** Awarded [Nokia Bell Labs'](https://www.bell-labs.com/#gref) Outstanding Innovation Award for my summer research in the Modeling & Optimization group. We look forward to publishing this work in the near future!
 
 ---
 
