@@ -19,7 +19,7 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 ---
 
-**May 6th, 2022:** Awarded the [Aziz/Osborn Gold Medal in Teaching Excellence](https://www-math.umd.edu/graduate/current-students/graduate-student-awards/80-math/graduate/568-graduate-student-teaching-award.html) for the 2021-2022 academic year. 
+**May 6th, 2022:** Awarded University of Maryland's [Aziz/Osborn Gold Medal in Teaching Excellence](https://www-math.umd.edu/graduate/current-students/graduate-student-awards/80-math/graduate/568-graduate-student-teaching-award.html) for the 2021-2022 academic year. 
 
 ---
 
