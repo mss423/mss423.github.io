@@ -14,7 +14,7 @@ I did my *undergraduate studies in Mathematics with minors in Biological and Cog
 computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy.
 
 ---
-**September 17th, 2022** Publication news: we recently had our paper "Online Algorithms for the Santa Claus Problem" accepted to *NeurIPS 2022*! I look forward to seeing everyone in New Orleans this fall. I additionally had my paper "A machine-learning approach for predicting impaired consciousness in absence epilepsy" accepted to *Annals of Clinical and Translational Neurology*. [Find the paper here.](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51647)
+**September 17th, 2022:** Publication news: we recently had our paper "Online Algorithms for the Santa Claus Problem" accepted to *NeurIPS 2022*! I look forward to seeing everyone in New Orleans this fall. I additionally had my paper "A machine-learning approach for predicting impaired consciousness in absence epilepsy" accepted to *Annals of Clinical and Translational Neurology*. [Find the paper here.](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51647)
 
 ---
 
