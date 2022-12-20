@@ -18,7 +18,7 @@ The song is so raw that people often misattribute the tune as a cover of an old 
 
 **“You gonna tell me the history of the blues? I am the goddam blues. Look at me. Shit. I’m from West Virginia, I’m the first man in my family not to work in the coal mines, my mother scrubbed floors on her knees for a living, and you’re going to tell me about the goddam blues because you read some book written by John Hammond? Kiss my ass.” — Bill Withers**
 
-[aintnosun.mp4](First%20Principles%20d9735c25b29d469bbabceb8891d80da6/aintnosun.mp4)
+[aintnosun.mp4](/videos/aintnosun.mp4)
 
 ---
 
@@ -38,7 +38,7 @@ Bill Withers wrote *two*.
 
 ---
 
-[lean-on-me.mp4](First%20Principles%20d9735c25b29d469bbabceb8891d80da6/lean-on-me.mp4)
+[lean-on-me.mp4](/videos/lean-on-me.mp4)
 
 **“The things that [virtuosos] do are too complicated. There’s an almost inverse ratio between virtuosity and popularity. Simplicity is *directly* related to availability for most people.” — Bill Withers**
 
