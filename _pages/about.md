@@ -8,22 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a *PhD student in Applied Mathematics at the University of Maryland*, working with [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/). I am mainly interested in approximate algorithms, auction / mechanism design, and game theoretic problems.
+I am currently a *PhD student in Applied Mathematics at the University of Maryland*, working with [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/). I am mainly interested in approximate algorithms, auction / mechanism design, and game theoretic problems with work published at *NeurIPS '22, AAAI '23, and AAMAS '23*.
 
 I did my *undergraduate studies in Mathematics with minors in Biological and Cognitive Sciences at Cornell University*. Between my undergraduate and graduate schooling, I worked as a post-graduate *research associate at Yale University's School of Medicine* in the field of 
-computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy.
+computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy. This work has appeared at multiplie *American Epilepsy Society (AES)* meetings and been published in the journals *NeuroImage* as well as *Annals of Clinical and Translational Neurology*.
 
 ---
 
-***January 9th, 2023:*** We have been accepted to present at *AAMAS 2023* in London this summer on our paper ["Analysis of a Learning Based Algorithm for Budget Pacing"](https://arxiv.org/abs/2205.13330). Hope to see some old friends and make some new ones while we're there!
-
----
-
-**November 21st, 2022:** Our latest paper "Optimal Sparse Recovery with Decision Stumps" has been accepted to *AAAI 2023*. Check back soon for the preprint and plan to stop by our presentation in DC this February!
-
----
-
-**September 17th, 2022:** We recently had our paper ["Online Algorithms for the Santa Claus Problem"](https://arxiv.org/abs/2210.07333) accepted to *NeurIPS 2022*! I look forward to seeing everyone in New Orleans this fall. I additionally had my paper ["A machine-learning approach for predicting impaired consciousness in absence epilepsy"](https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.51647) accepted to *Annals of Clinical and Translational Neurology*.
+***Latest Publication:*** We have been accepted to present at *AAMAS 2023* in London this summer on our paper ["Analysis of a Learning Based Algorithm for Budget Pacing"](https://arxiv.org/abs/2205.13330). Hope to see some old friends and make some new ones while we're there!
 
 ---
 
