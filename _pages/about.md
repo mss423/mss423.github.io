@@ -11,7 +11,7 @@ redirect_from:
 I am currently a *PhD student in Applied Mathematics at the University of Maryland*, working with [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/). I am mainly interested in approximate algorithms, auction / mechanism design, and game theoretic problems with work published at *NeurIPS '22, AAAI '23, and AAMAS '23*.
 
 I did my *undergraduate studies in Mathematics with minors in Biological and Cognitive Sciences at Cornell University*. Between my undergraduate and graduate schooling, I worked as a post-graduate *research associate at Yale University's School of Medicine* in the field of 
-computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy. This work has appeared at multiplie *American Epilepsy Society (AES)* meetings and been published in the journals *NeuroImage* as well as *Annals of Clinical and Translational Neurology*.
+computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy. This work has appeared at multiplie *American Epilepsy Society (AES)* meetings and been published in the journals *NeuroImage* as well as *Annals of Clinical and Translational Neurology (ACTN)*.
 
 ---
 
