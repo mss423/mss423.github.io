@@ -1,8 +1,8 @@
 ---
-title: "Work in progress..."
-excerpt: "This page is not yet available"
-sitemap: false
+layout: archive
+title: "Blog"
 permalink: /blog/
+author_profile: true
 ---
 
-Sorry, but the page you were trying to view is not yet available...
+{% include base_path %}
