@@ -6,7 +6,10 @@ tags:
   - music
 ---
 
-# First Principles
+An ode to Bill Withers.
+
+First Principles
+======
 
 There’s a notion in mathematics of constructing a proof from “first principles”: the most fundamental facts that we hold to be true. These arguments are elegant, lacking in obfuscating assumptions or unnecessary bulk — rather they reveal an inherent nature from absolutely basic and immutable building blocks.
 
@@ -26,7 +29,7 @@ The song is so raw that people often misattribute the tune as a cover of an old 
 
 **“You gonna tell me the history of the blues? I am the goddam blues. Look at me. Shit. I’m from West Virginia, I’m the first man in my family not to work in the coal mines, my mother scrubbed floors on her knees for a living, and you’re going to tell me about the goddam blues because you read some book written by John Hammond? Kiss my ass.” — Bill Withers**
 
-![](https://youtu.be/y3_Ym672_lU)
+[![Bill Withers - Aint no Sunshine](https://img.youtube.com/vi/y3_Ym672_lU.maxresdefault.jpg)](https://www.youtube.com/watch?v=y3_Ym672_lU)
 
 ---
 
@@ -46,9 +49,9 @@ Bill Withers wrote *two*.
 
 ---
 
-![](https://youtu.be/dtC1W-6hwIU)
-
 **“The things that [virtuosos] do are too complicated. There’s an almost inverse ratio between virtuosity and popularity. Simplicity is *directly* related to availability for most people.” — Bill Withers**
+
+[![Bill Withers - Lean on Me](https://img.youtube.com/vi/dtC1W-6hwIU.maxresdefault.jpg)](https://www.youtube.com/watch?v=dtC1W-6hwIU)
 
 ---
 
