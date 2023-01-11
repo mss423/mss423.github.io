@@ -26,10 +26,10 @@ Utilizing such a simple repetition that emerged organically in the original reco
 The song is so raw that people often misattribute the tune as a cover of an old folk tune, surely written by Muddy Waters or Bessie Smith in the Great Depression? But, if it never felt new and it never gets old — *well that’s a folk song*.
 
 ---
-<p align="center">
 **“You gonna tell me the history of the blues? I am the goddam blues. Look at me. Shit. I’m from West Virginia, I’m the first man in my family not to work in the coal mines, my mother scrubbed floors on her knees for a living, and you’re going to tell me about the goddam blues because you read some book written by John Hammond? Kiss my ass.” — Bill Withers**
 
-[![Bill Withers - Aint no Sunshine](https://media.pitchfork.com/photos/5e88885549503a0009419c0b/4:3/w_1280,h_960,c_limit/Bill%20Withers.png)](https://www.youtube.com/watch?v=y3_Ym672_lU)
+<p align="center">
+<a href="{https://www.youtube.com/watch?v=y3_Ym672_lU}" title="Aint no Sunshine"><img src="{https://media.pitchfork.com/photos/5e88885549503a0009419c0b/4:3/w_1280,h_960,c_limit/Bill%20Withers.png}" alt="bill1" width="300"/></a>
 </p>
 ---
 
