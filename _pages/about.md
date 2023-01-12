@@ -15,7 +15,7 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 ---
 
-***Latest Publication:*** We have been accepted to present at *AAMAS 2023* in London this summer on our paper ["Analysis of a Learning Based Algorithm for Budget Pacing"](https://arxiv.org/abs/2205.13330). Hope to see some old friends and make some new ones while we're there!
+***Latest Publication News:*** We have been accepted to present at *AAMAS 2023* in London this summer on our paper ["Analysis of a Learning Based Algorithm for Budget Pacing"](https://arxiv.org/abs/2205.13330). Hope to see some old friends and make some new ones while we're there!
 
 ---
 
