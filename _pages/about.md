@@ -29,6 +29,6 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 **April 4th, 2022:** I am incredibly excited to share that I was [awarded the National Science Foundation (NSF) graduate research fellowship](https://cmns.umd.edu/news-events/features/4914)! I want to give a very warm shoutout to my mentors and peers from Cornell, Yale, the NIH, and UMD for all their help to get me to this stage of my career.
 
-<div align="center">
-![](https://media.giphy.com/media/Rpg08oZ3MzkdOWjm8c/giphy.gif)
-</div>
+<p align="center">
+<img src="https://media.giphy.com/media/Rpg08oZ3MzkdOWjm8c/giphy.gif" alt="astro" width="500"/>
+</p>
