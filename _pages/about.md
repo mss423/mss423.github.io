@@ -15,7 +15,7 @@ computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/p
 
 ---
 
-***Latest Publication News:*** We have been accepted to present at *AAMAS 2023* in London this summer on our paper ["Analysis of a Learning Based Algorithm for Budget Pacing"](https://arxiv.org/abs/2205.13330). Hope to see some old friends and make some new ones while we're there!
+***Latest Publication News:*** Our paper "Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost" has been accepted for publication at ICML 2023 in Hawaii! We are very eager to present this state-of-the-art result later in the summer.
 
 ---
 
