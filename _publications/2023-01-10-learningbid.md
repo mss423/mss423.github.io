@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-01-10-learningbid
 excerpt: 
 date: 2023-01-10
-venue: 'AAMAS 2023'
+venue: 'AAMAS'
 paperurl: 
 citation: 'MohammadTaghi Hajiaghayi and Max Springer.  (2022).  &quot;Analysis of a Learning Based Algorithm for Budget Pacing&quot;  (AAMAS 2023)'
 ---
