@@ -1,19 +1,24 @@
 ---
 title: 'Matrix Multiplication: Resurrections'
 date: 2023-08-01
-permalink: /blog/2023/02/matrix-mult/
+permalink: /blog/2023/03/matrix-mult/
 tags:
   - research
 ---
+*An understated breakthrough in AI research.*
 
 On October 5th, the research group DeepMind resurrected a 50-year line of work on the computational efficiency of matrix multiplication -- a fundamental calculation at the heart of all procedures in computer science. In their latest Nature publication, DeepMind demonstrated that an artificially intelligent (AI) system can make mathematical discoveries and break barriers researchers previously thought were impenetrable, showcasing a staggering achievement for AI as it continues to surpass human intuition.
 
 The problem of matrix multiplication is at the core of all computer processes. A matrix is a grid of numbers that can abstractly represent essentially anything, and their multiplication is representative of some change in that representation. For example, analyzing an MRI scan is reliant upon thousands and thousands of matrix multiplications. As such, it is of immense value to find the fastest method for conducting this higher-dimensional arithmetic -- one which will reduce the cost of running on a computer and, as a result, save energy.
 
 The costliest, or most time-consuming, mathematical procedure done on any classical computer is multiplication, which is inherently a recursive summation of numbers. Therefore, the cost of any large-scale computation is dictated by the number of multiplications one must compute. Consider the simple equation
+
 $$x^2 - y^2$$
+
 which contains two multiplications (tucked into the exponents) and a subtraction. To reduce the cost incurred in calculating this value, we can rewrite the expression as 
+
 $$(x+y)(x-y)$$
+
 to obtain the exact same value with only one multiplication, thus incurring a lower cost. 
 
 This is precisely the insight Volker Strassen, a German mathematician at the University of Konstanz, had in 1969 when he recognized that the standard approach to computing the multiplication of two matrices is suboptimal. His algorithm which utilized the above idea required only a fraction of the cost to implement when compared to the naive method. While Strassen's algorithm is by no means fast, it broke the barrier and left computer scientists with a fascinating new question to explore: can we do even better?
