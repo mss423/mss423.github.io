@@ -17,7 +17,7 @@ To provide a clearer understanding of how these ''blind" objectives work, we her
 While under-representative data has a (somewhat) clean solution in improved collection procedures, mitigating bias as a result of objective minimization is less clear. In an effort to counteract this issue, researchers have recently turned to propose algorithms that ensure some quantified form of ''fair representation" at the cost of a degradation in the optimality of a clustering. Consider the following figure that depicts a traditional clustering result versus what one would deem ''fair", where the two colors are representative of some protected attribute such as gender or race. We see that the standard (blind) solution may yield clusters of data points that disproportionately segregate the data based on an implicit attribute, leading to potentially discriminatory or even illegal behavior by the algorithm. A more desirable solution in practice might yield clusters that contain equal representation of the two protected attributes while also mitigating the intra-cluster distances between data points.
 
 <p align="center">
-<img src="https://aihub.org/wp-content/uploads/2023/05/fair_cluster-1536x1328.jpg" alt="faircluster" width="500"/></a>
+<img src="https://aihub.org/wp-content/uploads/2023/05/fair_cluster-1536x1328.jpg" alt="faircluster" width="500"/>
 </p>
  
 
