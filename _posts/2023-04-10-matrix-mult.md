@@ -1,6 +1,6 @@
 ---
 title: 'Matrix Multiplication: Resurrections'
-date: 2023-08-01
+date: 2023-04-10
 permalink: /blog/2023/03/matrix-mult/
 tags:
   - research

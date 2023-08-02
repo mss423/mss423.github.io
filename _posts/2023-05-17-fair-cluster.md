@@ -1,6 +1,6 @@
 ---
 title: 'Mitigating Biases in Machine Learning'
-date: 2023-08-02
+date: 2023-05-17
 permalink: /blog/2023/02/fair-cluster/
 tags:
   - research

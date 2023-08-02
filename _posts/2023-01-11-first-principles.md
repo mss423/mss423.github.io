@@ -6,7 +6,7 @@ tags:
   - music
 ---
 
-An ode to Bill Withers.
+*An ode to Bill Withers.*
 
 First Principles
 ======
