@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in Applied Mathematics advised by [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/) at the University of Maryland. I studied mathematics and biology at Cornell University from 2015 to 2019and began my PhD in August 2020 after working for a year as a research associate at the Yale School of Medicine under [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/).
+I am currently a PhD candidate in Applied Mathematics advised by [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/) at the University of Maryland. I studied mathematics and biology at Cornell University from 2015 to 2019 and began my PhD in August 2020 after working for a year as a research associate at the Yale School of Medicine under [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/).
 
 Broadly, I am interested in approximation algorithms, auction / mechanism design, and game theoretic problems with work published at NeurIPS, AAAI, AAMAS, and ICML. A fundamental theme underlying my research is the application of different concepts of "fairness" to theoretical problems in algorithmic design.
 
