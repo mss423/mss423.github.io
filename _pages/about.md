@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a *PhD candidate in Applied Mathematics at the University of Maryland*, working with [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/). I am mainly interested in approximate algorithms, auction / mechanism design, and game theoretic problems with work published at *NeurIPS, AAAI, AAMAS, and ICML*.
+I am currently a PhD candidate in Applied Mathematics advised by [Professor MohammadTaghi Hajiaghayi](http://www.cs.umd.edu/~hajiagha/) at the University of Maryland. I studied mathematics and biology at Cornell University from 2015 to 2019and began my PhD in August 2020 after working for a year as a research associate at the Yale School of Medicine under [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/).
 
-I did my *undergraduate studies in Mathematics with minors in Biological and Cognitive Sciences at Cornell University*. Between my undergraduate and graduate schooling, I worked as a post-graduate *research associate at Yale University's School of Medicine* in the field of 
-computational neuroscience with [Dr. Hal Blumenfeld](https://medicine.yale.edu/profile/hal_blumenfeld/). My research focused on the applications of machine learning and data science approaches to EEG and fMRI in an effort to better understand and treat absence epilepsy. This work has appeared at multiplie *American Epilepsy Society (AES)* meetings and been published in the journals *NeuroImage* as well as *Annals of Clinical and Translational Neurology (ACTN)*.
+Broadly, I am interested in approximation algorithms, auction / mechanism design, and game theoretic problems with work published at NeurIPS, AAAI, AAMAS, and ICML. A fundamental theme underlying my research is the application of different concepts of "fairness" to theoretical problems in algorithmic design.
 
 ---
 
