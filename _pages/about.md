@@ -14,7 +14,7 @@ Broadly, I am interested in approximation algorithms, auction / mechanism design
 
 ---
 
-***Latest Publication News:*** Our paper "Generalized Reductions: Making any Hierarchical Clustering Fair and Balanced with Low Cost" has been accepted for publication at ICML 2023 in Hawaii! We are very eager to present this state-of-the-art result later in the summer.
+***Latest Publication News:*** I will be at NeurIPS in December to present on our two recent works "An Improved Relaxation for Oracle-Efficient Adversarial Contextual Bandits" and "Fair Polylog Approximate Low-Cost Hierarchical Clustering" with my fantastic coauthors. Reach out if you want to meet up in New Orleans!
 
 ---
 
